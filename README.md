@@ -9,9 +9,9 @@ Github Repository: https://github.com/leokao960811/ReactApp/tree/main
 
 1. ToDo App:
   這個範例建立一個待備清單，用於確立要完成的事情。
-2. Event Countdown
+2. Event Countdown:
   這是個建立活動並顯示剩餘時間的範本，可以用於倒數計時。 
-3. Quiz App
+3. Quiz App:
   這個範例是做一個問答的小遊戲，可用來當作教學輔助，如背單字等等。
    
 這三個專案會在我們的期末專題中這樣運用：
