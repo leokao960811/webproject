@@ -2,9 +2,15 @@
 HW1 網站：https://leokao960811.github.io/webproject/
 
 # HW2 React + Javascript
+
+影片介紹: https://youtu.be/ZvjTzqYPm1g
+
 Github Repository: https://github.com/leokao960811/ReactApp/tree/main
 
 # HW3 專題想法
+
+影片: https://youtu.be/k_U04l7qhqY
+
 針對期末專題，這是我決定使用的3個範例:
 
 1. ToDo App:
