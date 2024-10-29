@@ -24,7 +24,7 @@ Github Repository: https://github.com/leokao960811/ReactApp/tree/main
 
 我想以Quiz App做優化與改正，變成一個可以自由選擇問題庫，並在作答時倒數計時的作品。
 選擇問題庫的部分就會以ToDo App的清單做改變，
-倒數計時的部分就是用Event Countdown的倒數計時功能製作。
+倒數計時的部分則是用Event Countdown的倒數計時功能製作。
 
 
 這三個專案會在我們的期末專題中這樣運用：
