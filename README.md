@@ -9,7 +9,7 @@ Github Repository: https://github.com/leokao960811/ReactApp/tree/main
 
 # HW3 專題想法
 
-影片: https://youtu.be/k_U04l7qhqY
+影片: https://youtu.be/wL6jafezhzk
 
 針對期末專題，這是我決定使用的3個範例:
 
