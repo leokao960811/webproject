@@ -9,7 +9,7 @@ Github Repository: https://github.com/leokao960811/ReactApp/tree/main
 
 # HW3 專題想法
 
-影片: https://youtu.be/wL6jafezhzk
+影片: https://youtu.be/E3dy3Yu2u6s (已補上實作)
 
 實作Repostory: https://github.com/leokao960811/QuizApp
 
